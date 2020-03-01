@@ -4,6 +4,6 @@
 ### NATION
 ##### Republic of Korea
 ### EDUCATION
-##### Yonsei University
+##### Yonsei University, Seoul
 ###### > Bachelor of Electrical and Electornic Engineering
 ###### > PH.D Candidate in Electrical and Electronic Engineering / (MAJOR) Medical Imaging Processing & Medical AI
