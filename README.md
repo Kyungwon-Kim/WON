@@ -2,6 +2,8 @@
 Kyungwon Kim
 ## Affiliation
 Medical Artificial Intelligence LAB in Yonsei University, Seoul
+## Education
+B.S. in Electrical and Electronic, Yonsei University, Seoul
 ## Language for development
 Python (Pytorch / Keras)  
 MATLAB
@@ -9,3 +11,4 @@ MATLAB
 Medical AI (X-ray / CT / MRI)  
 Optical AI (Fourier Ptychographic Microscophy)  
 Dental Modeling
+
